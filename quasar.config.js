@@ -186,7 +186,7 @@ export default defineConfig((ctx) => {
       builder: {
         // https://www.electron.build/configuration/configuration
 
-        appId: 'versioncontrol'
+        appId: 'versioncontrol2'
       }
     },
 
